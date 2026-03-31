@@ -24,23 +24,27 @@ I strongly believe in building **practical tools**, clean workflows and automati
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandro-marcell-páramo-rivas-80b888197/" target="_blank">
+  <a href="https://ni.linkedin.com/in/leandro-marcell-p%C3%A1ramo-rivas-80b888197" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Leandro%20Páramo-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
-
 ---
-
-## 📊 GitHub Stats
+---
+## 🧪 Hack The Box
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParamoLeandro&show_icons=true&count_private=true&theme=dark&hide_border=true"/>
+  <a href="https://app.hackthebox.com/users/2293931" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamoLeandro&layout=compact&theme=dark&hide_border=true"/>
+Active on Hack The Box, practicing real-world offensive security,
+privilege escalation, web exploitation and methodology refinement.
 </p>
+
 ---
+
 
 ### 🛠️ Technologies & Tools
 
