@@ -28,8 +28,9 @@ I strongly believe in building **practical tools**, clean workflows and automati
     <img src="https://img.shields.io/badge/LinkedIn-Leandro%20Páramo-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
 ---
----
+
 ## 🧪 Hack The Box
 
 <p align="center">
